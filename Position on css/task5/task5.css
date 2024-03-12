@@ -1,0 +1,24 @@
+.boxa{
+background: brown;
+width: 100px;
+height: 100px;
+z-index: 4;
+}
+.boxb{
+    background: rgb(89, 5, 179);
+    width: 100px;
+    height: 100px;
+    z-index: 2;
+    }
+.boxc{
+background: rgb(42, 191, 121);
+width: 100px;
+height: 100px;
+z-index: 3;
+}
+.item{
+    text-align: center;
+}
+.box{
+    position: absolute;
+}
